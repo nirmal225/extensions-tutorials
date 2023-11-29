@@ -1,0 +1,11 @@
+{
+  "name": "modular_js",
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "description": "testing modular code",
+  "background": {
+    "scripts": ["HelloWorld.js","bgScript.js"],
+    "persistent": true,
+    "type": "module"
+  }
+}

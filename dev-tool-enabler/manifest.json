@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "mca-dev-tool-enabler",
+  "version": "1.0.0",
+  "description": "enabling dev tool by changing the request using the interceptor",
+  "permissions": ["webRequest", "storage"],
+  "host_permissions": [
+    "*://developer.chrome.com/*"
+  ],
+  "background": {
+    "service_worker": "devToolEnabler.js"
+  }
+}

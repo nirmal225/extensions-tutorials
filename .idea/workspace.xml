@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d6a9e35-e9cb-46de-b5f3-77b483626682" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hybrid/js_and_module/bg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hybrid/js_and_module/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hybrid/js_and_module/modular.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hybrid/js_and_module/nonModular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hybrid/type_module/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jqueryExperiments/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jqueryExperiments/lib/jquery-3.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mca-master-data/cs/serviceworker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mca-master-data/images/sortIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mca-master-data/lib/probe/commons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mca-master-data/lib/probe/cs/messaging.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mca-master-data/lib/probe/cs/scrapingCommons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mca-master-data/lib/probe/cs/toast/toast.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mca-master-data/lib/probe/cs/toast/toaster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mca-master-data/lib/underscore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mca-master-data/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabs-manager/assets/images/icon-128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabs-manager/assets/images/icon-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabs-manager/assets/images/icon-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabs-manager/assets/images/icon-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabs-manager/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabs-manager/popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabs-manager/popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabs-manager/popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/focus-mode/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/focus-mode/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hybrid/type_module/bg.html" beforeDir="false" afterPath="$PROJECT_DIR$/hybrid/type_module/bg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hybrid/type_module/bgScript.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/hybrid/type_module/bgScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irctc_tatkal/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/irctc_tatkal/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irctc_tatkal/scripts/LogInPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/irctc_tatkal/scripts/TrainSearch.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2akzoBrrfTv2pvGFHmRzHPGl72q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d6a9e35-e9cb-46de-b5f3-77b483626682" name="Changes" comment="" />
+      <created>1704877537800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704877537800</updated>
+      <workItem from="1704877538861" duration="4513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

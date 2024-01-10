@@ -4,5 +4,4 @@ function run() {
 
     helloClass.print()
 }
-console.log("bg script is created")
 run();

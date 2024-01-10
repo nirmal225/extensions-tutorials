@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "content_scripts": [
     {
-      "js": ["scripts/LogInPage.js"],
+      "js": ["scripts/TrainSearch.js"],
       "matches": [
         "https://www.irctc.co.in/nget/train-search"
       ]

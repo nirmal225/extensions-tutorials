@@ -1,19 +1,19 @@
 class TrainSearch {
-    constructor(userName, password,origin,destination,date) {
+    async startSearch(userName, password, origin, destination, date) {
         this.clickOnLogOut();
         this.clickOnLogIn(userName, password);
-        this.enterAndSubmitCredentials(userName, password)
+        await this.enterAndSubmitCredentials(userName, password)
         this.enterOriginDestination(origin,destination);
         this.enterDate(date)
         this.clickOnSearch();
     }
 
-    enterAndSubmitCredentials(username, password) {
+    async enterAndSubmitCredentials(username, password) {
         this.enterUserName(username);
         this.enterPassword(password);
-        this.getAndEnterCaptcha();
+        await this.getAndEnterCaptcha();
         this.submitTheDetails();
-        this.closeThePopUp()
+        // this.closeThePopUp()
     }
 
     clickOnLogOut() {
@@ -33,7 +33,7 @@ class TrainSearch {
         this.enterDestination(destination)
     }
 
-    enterUserName(username) {
+     enterUserName(username) {
         let userNameElement = document.querySelector('input[placeHolder="User Name"]');
         userNameElement.focus();
         userNameElement.value = username;
@@ -69,15 +69,20 @@ class TrainSearch {
         destInputElement.blur();
     }
 
-    getAndEnterCaptcha() {
-        let captcha = this.getCaptcha();
-        this.enterCaptcha(captcha);
+    async getAndEnterCaptcha() {
+        await pause(1000)
+        let captcha = await this.getCaptcha();
+        await this.enterCaptcha(captcha);
     }
-    getCaptcha() {
-        return "1234";
+    async getCaptcha() {
+        let src = document.getElementsByClassName('captcha-img')[0].src.replace("data:image/jpg;base64,","");
+        const response = await fetch('http://127.0.0.1:5000/captcha?encodedData='+src,)
+        const data = await response.json()
+        return data.captcha
     }
 
     submitTheDetails() {
+
         let submitButtonElement = document.getElementsByClassName("search_btn train_Search")[1];
         submitButtonElement.click();
     }
@@ -100,11 +105,19 @@ class TrainSearch {
     }
 }
 
-logInPage = new TrainSearch
-(
-    "pnk2255",
-    "Uncharted@123",
-    'KSR BENGALURU - SBC',
-    'TANUKU - TNKU',
-    '13/01/2024'
-);
+async function run() {
+    let logInPage = new TrainSearch();
+    await logInPage.startSearch(
+        "pnk2255",
+        "Uncharted@123",
+        'KSR BENGALURU - SBC',
+        'BAPATLA - BPP',
+        '13/01/2024'
+    )
+}
+
+async function pause(millisecs){
+    await new Promise(r => setTimeout(r, millisecs));
+}
+
+run().catch(console.log)

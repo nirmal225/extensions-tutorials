@@ -5,73 +5,164 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6a9e35-e9cb-46de-b5f3-77b483626682" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hybrid/js_and_module/bg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hybrid/js_and_module/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hybrid/js_and_module/modular.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hybrid/js_and_module/nonModular.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hybrid/type_module/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jqueryExperiments/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jqueryExperiments/lib/jquery-3.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mca-master-data/cs/serviceworker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mca-master-data/images/sortIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mca-master-data/lib/probe/commons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mca-master-data/lib/probe/cs/messaging.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mca-master-data/lib/probe/cs/scrapingCommons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mca-master-data/lib/probe/cs/toast/toast.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mca-master-data/lib/probe/cs/toast/toaster.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mca-master-data/lib/underscore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mca-master-data/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs-manager/assets/images/icon-128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs-manager/assets/images/icon-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs-manager/assets/images/icon-32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs-manager/assets/images/icon-48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs-manager/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs-manager/popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs-manager/popup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs-manager/popup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/focus-mode/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/focus-mode/background.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hybrid/type_module/bg.html" beforeDir="false" afterPath="$PROJECT_DIR$/hybrid/type_module/bg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hybrid/type_module/bgScript.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/hybrid/type_module/bgScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/21928950349" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/Koo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/ShoppingCartOption3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/aframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/container.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/gyfty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/irctc_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/izooto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/js(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/js(2)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/js(3)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/primeng.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/saved_resource(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/saved_resource(2).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/saved_resource(3).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/saved_resource(4).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/saved_resource(5).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/saved_resource(6).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/saved_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/secondry-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/sodar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/styles.a571e53e5e430238872d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_list/IRCTC Next Generation eTicketing System_files/topics_frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/14456049507465439313" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/21928950349" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/6114417783091631649" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/AGSKWxUfsNN2D_8mNqn8SLaVG3GtEOJI-1UEsmzd-a8QWPV2y-znEfZ6J99QZdoKI38Wp6QUhxiVK0MSu0a8wLwthU9G13tGwEq7W4cHarlYsSZ4eAzEJ0Rd_emQTg9cHo_8_kQDDAhtBg==" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/AGSKWxV9X-XX6SJIPyD2Oy8RPyn84lte74D5zJHpKG-ULgs7e9a9tvzK-wTgX2Dk0KciHXwcm_xgVjcbB_5eoc6WJ4lQeqOdz0gzLaSF5WiXX7a55m2OeA1qAlSlER3bT6eYGuzhyNWOEQ==" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/AGSKWxVr78PdeQjAW7PnTQonz70fKzBoAGX0xs1569HlLqSifVYEn1I0xDV45vXRZz2hAVLyNrJAvUFSoy9BYLxJxEIbqepuWDNkgoydASFQg8se6ibo5FQKrkmuK0ie7SpcMlHKDsq_7w==" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/AGSKWxX9ZW_ourb8Racaw1LQbW2bQU2YfBW4gjqFrkPWjlPjvMOEnUfkzmMVrQBv5xgsJHcwAW8e5ptylXCOFc4kjTzHhggrM9CuqweQyppNVQfzpY3hKbHlhHfRquSxgUwTNzcLeAE3tQ==" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/DEALS....png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/G20_Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/GPT_NWEB_HOME_CENTER.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/IRCTC-banner-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/Koo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/Thumbsup.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/aframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/amazon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/container.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/cross.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/disha-support.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/drag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/esp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/eyJrZXkiOiJiODRlZGIzNjg2M2U5MjNhZTNlYmRmNmJhMmQ3YTdmNyIsImN1YmVCb3hJZCI6Im5scEN1YmVCb3gyMDBYMjAwIiwiY3ViZVdpZHRoIjoyMDAsImN1YmVIZWlnaHQiOjIwMH0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/f(1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/f(2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/f(3).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/izooto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/js(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/js(2)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/js(3)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/l" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/launcher.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/logo_top_eng.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/minimum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/nlpCubeBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/offer_gif.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/pnr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/primeng.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/saved_resource(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/saved_resource(10).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/saved_resource(2).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/saved_resource(3).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/saved_resource(4).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/saved_resource(5).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/saved_resource(6).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/saved_resource(7).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/saved_resource(8).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/saved_resource(9).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/saved_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/secondry-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/sodar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/styles.a571e53e5e430238872d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/topics_frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/train-blue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/irctc_tatkal/train_search/IRCTC Next Generation eTicketing System_files/white-cross.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irctc_tatkal/scripts/TrainLIst.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/irctc_tatkal/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/irctc_tatkal/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/irctc_tatkal/scripts/LogInPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/irctc_tatkal/scripts/TrainSearch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irctc_tatkal/scripts/TrainSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/irctc_tatkal/scripts/TrainSearch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2akzoBrrfTv2pvGFHmRzHPGl72q" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/nirmalkumarpadaga/exp/extension/data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/irctc_tatkal/train_search" />
+      <recent name="$PROJECT_DIR$/data/irctc_tatkal" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TrainSearch.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="TrainSearch.js" working-dir="$PROJECT_DIR$/irctc_tatkal/scripts">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,10 +172,94 @@
       <option name="presentableId" value="Default" />
       <updated>1704877537800</updated>
       <workItem from="1704877538861" duration="4513000" />
+      <workItem from="1704887122332" duration="332000" />
+      <workItem from="1704889177366" duration="714000" />
+      <workItem from="1704947444535" duration="46000" />
+      <workItem from="1705034797868" duration="1448000" />
+      <workItem from="1706511996441" duration="4520000" />
+      <workItem from="1706677745059" duration="1237000" />
+      <workItem from="1706695780314" duration="3681000" />
+      <workItem from="1706766024282" duration="9439000" />
     </task>
+    <task id="LOCAL-00001" summary="TrainSearch:logging in and entering the credentials,train">
+      <option name="closed" value="true" />
+      <created>1704887219852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704887219852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="manifest.json:updated the file name">
+      <option name="closed" value="true" />
+      <created>1704887243713</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704887243713</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mca-master-data: added new project">
+      <option name="closed" value="true" />
+      <created>1704887286070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704887286070</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tabs-manager: added new project">
+      <option name="closed" value="true" />
+      <created>1704887322252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704887322252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="jqueryExperiments: added new project">
+      <option name="closed" value="true" />
+      <created>1704887340867</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704887340867</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hybrid: added new project">
+      <option name="closed" value="true" />
+      <created>1704887353161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704887353161</updated>
+    </task>
+    <task id="LOCAL-00007" summary="focus-mode: added new project">
+      <option name="closed" value="true" />
+      <created>1704887395624</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704887395624</updated>
+    </task>
+    <task id="LOCAL-00008" summary="adding the .idea">
+      <option name="closed" value="true" />
+      <created>1704887429297</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704887429297</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TrainSearch:logging in and entering the credentials,train" />
+    <MESSAGE value="manifest.json:updated the file name" />
+    <MESSAGE value="tabs-manager: added new project" />
+    <MESSAGE value="mca-master-data: added new project" />
+    <MESSAGE value="hybrid: added new project" />
+    <MESSAGE value="focus-mode: added new project" />
+    <MESSAGE value="jqueryExperiments: added new project" />
+    <MESSAGE value="adding the .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding the .idea" />
   </component>
 </project>

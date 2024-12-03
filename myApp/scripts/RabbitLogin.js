@@ -30,7 +30,7 @@ class Rabbit {
     }
 
     async clickOnQueueNames() {
-        await pause(200);
+        await pause(1000);
         let queueNamesElm = document.querySelector('a[href="#/queues"]');
         queueNamesElm.click();
     }

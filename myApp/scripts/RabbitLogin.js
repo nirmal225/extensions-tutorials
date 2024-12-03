@@ -4,7 +4,9 @@ class Rabbit {
             this.enterUserName(userName);
             this.enterPassword(password);
             this.clickOnSubmit();
+            console.log("logged in")
             await this.clickOnQueueNames()
+            console.log("clicked on queues")
         }
     }
 
@@ -34,7 +36,7 @@ class Rabbit {
     }
 
     checkForLoginPage() {
-        return document.getElementById("login-status") !== null
+        return document.getElementById("login") !== null
     }
 }
 

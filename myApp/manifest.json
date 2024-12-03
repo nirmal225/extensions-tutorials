@@ -6,8 +6,7 @@
     {
       "js": ["scripts/RabbitLogin.js"],
       "matches": [
-        "http://localhost:15672/",
-        "http://localhost:15672/"
+        "http://*:15672/"
       ]
     },
     {

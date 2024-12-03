@@ -14,7 +14,8 @@
       "js": ["scripts/content.js"],
       "matches": [
         "https://www.rbi.org.in/commonperson/English/Scripts/*",
-        "https://developer.chrome.com/docs/webstore/*"
+        "https://developer.chrome.com/docs/webstore/*",
+        "https://developer.chrome.com/docs/"
       ]
     }
   ]
